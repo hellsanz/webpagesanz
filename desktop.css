@@ -1,0 +1,25 @@
+@media (min-width: 1000px){
+    .contenedor{
+        width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #wrapper_main_c1{
+        width: 25%;
+    }
+    #wrapper_main_c2{
+        width: 25%;
+    }
+    #wrapper_main_c3{
+        width: 25%;
+    }
+    #wrapper_main_c4{
+        width: 25%;
+    }
+    #wrapper_main_c5{
+        width: 75%;
+    }
+    #wrapper_main_c6{
+        width: 75%;
+    }     
+}

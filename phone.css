@@ -1,0 +1,8 @@
+@media (min-width: 600px){
+    #wrapper_main_c1,#wrapper_main_c2,#wrapper_main_c3,#wrapper_main_c4,#wrapper_main_c5,#wrapper_main_c6     
+    {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
