@@ -1,0 +1,1 @@
+hola soy un ejemplo de archivo de texto para practicar git con Freddy Vega
